@@ -70,6 +70,7 @@
 
 * [Cloud Security Alliance Research](https://cloudsecurityalliance.org/research/)
 * [Get the Risk Out! How to Manage Third-Party Cyber Risk](https://www.sans.org/webcasts/get-the-risk-out-how-to-manage-third-party-cyber-risk/), SANS Webcast
+* [Third Party Threat Hunting Blog](https://thirdpartythreathunting.com/blog)
 
 # Tools and Solutions
 
