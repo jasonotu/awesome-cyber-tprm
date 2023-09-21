@@ -78,6 +78,7 @@
 
 * [Bitsight](https://www.bitsight.com/)
 * [Black Kite](https://blackkite.com/)
+* [CyberClarity360](https://www.kroll.com/en/services/cyber-risk/governance-advisory/cyberclarity)
 * [CyberGRX](https://www.cybergrx.com/)
 * [Prevalent](https://www.prevalent.net/use-cases/vendor-information-security-cybersecurity-assessment/)
 * [RiskRecon](https://www.riskrecon.com/)
