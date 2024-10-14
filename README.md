@@ -1,8 +1,8 @@
 # Awesome Cyber Third-Party Risk Management (TPRM)
 
-> A curated list of resources related to cybersecurity third-party risk management (TPRM). PRs welcome!
-\
 > [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+\ \
+> A curated list of resources related to cybersecurity third-party risk management (TPRM). PRs welcome!
 
 # Contents
 * [Associations and Organizations](#associations-and-organizations)
@@ -29,7 +29,7 @@
 * [Third-Party Risk Management: Driving Enterprise Value
 ](https://www.rmahq.org/product/656430479?gmssopc=1): Mostly general TPRM but touches on technology and cyber risk.
 * [Zero Trust and Third-Party Risk: Reduce the Blast Radius
-](https://www.wiley.com/en-us/Zero+Trust+and+Third+Party+Risk%3A+Reduce+the+Blast+Radius-p-9781394203154): Not yet released
+](https://www.wiley.com/en-us/Zero+Trust+and+Third+Party+Risk%3A+Reduce+the+Blast+Radius-p-9781394203154): A zero trust approach to cyber TPRM
 
 # Certifications
 
